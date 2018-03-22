@@ -1,0 +1,10 @@
+Cole Teza
+#1361038
+CMPS12b
+PA2 Assignment
+
+This program uses merge sort and binary search to find a word and give you the location
+
+To use the program simply right pa2 (name of text fild) (word(s) you want with a space between them and hit enter 
+
+I chose to use the numbering system starting at 1 going to 10 usig the provided text list and the number returns when running the program

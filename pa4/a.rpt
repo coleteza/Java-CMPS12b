@@ -1,0 +1,7 @@
+Report file: a.rpt
+4 Jobs:
+ (2, 2, 4) (3, 4, 8) (5, 6, 14)
+
+************************************************
+1 processor: totalWait=4 maxWait=3 averageWait=1.0
+2 processor: totalWait=3 maxWait=3 averageWait=0.75
